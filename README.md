@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Swift and Development**
 
-- 🤝 I'm looking for help with **Building a portfolio of projects that help me learn and grow as a developer.**
+- 🤝 I'm looking for help with **building a portfolio of projects that help me learn and grow as a developer.**
 
 - 📫 How to reach me **troy@giordano.us**
 

@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello There
+<picture>
+  <img src=./HelloThere.webp" alt="Alt text">
+<picture>
+## My name is Troy Giordano
 
-<!--
-**TroyGio/TroyGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on **ArcanAi**
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning **Swift and Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I'm looking for help with **Building a portfolio of projects that help me learn and grow as a developer.**
+
+- 📫 How to reach me **troy@giordano.us**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/TroyGio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TroyGio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/troy-giordano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="troy-giordano" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>

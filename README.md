@@ -1,7 +1,5 @@
 # Hello There
-<picture>
-  <img src=./HelloThere.webp" alt="Alt text">
-<picture>
+![Gif](./HelloThere.webp)
 ## My name is Troy Giordano
 
 - 🔭 I'm currently working on **ArcanAi**
